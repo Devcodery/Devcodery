@@ -12,6 +12,7 @@ Apasionado por el desarrollo de software, la administración de servidores y la 
 - ☕ **Java**
 - 🌐 **HTML**, **CSS**, **JavaScript**
 - ⚙️ **C** *(nivel intermedio)*
+- 🐘 **PostgreSQL**
 
 ### 🐳 DevOps y entornos
 - 🧩 **Docker** (contenedorización y despliegue)
@@ -25,6 +26,7 @@ Apasionado por el desarrollo de software, la administración de servidores y la 
 - Automatizar tareas con **scripts y contenedores**.
 - Aprender constantemente nuevas tecnologías.
 - Colaborar en proyectos **open-source**.
+- Aprender nuevos **lenguajes** y entornos de desarrollo.
 
 ---
 
