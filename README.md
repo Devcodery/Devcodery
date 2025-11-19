@@ -21,6 +21,13 @@ Apasionado por el desarrollo de software, la administración de servidores y la 
 
 ---
 
+## 💻 IDE que he utilizado
+-  🟦 Visual Studio Code
+-  🌘 Eclipse
+-  🧠 IntelliJ IDEA Ultimate
+
+---
+
 ## 🧰 Lo que me gusta hacer
 - Crear y mantener **proyectos estables en servidores**.
 - Automatizar tareas con **scripts y contenedores**.
