@@ -11,7 +11,7 @@ Apasionado por el desarrollo de software, la administración de servidores y la 
 - 🐍 **Python**
 - ☕ **Java**
 - 🌐 **HTML**, **CSS**, **JavaScript**
-- ⚙️ **C** *(nivel intermedio)*
+- ⚙️ **C** *(nivel intermedio - bajo)*
 - 🐘 **PostgreSQL**
 
 ### 🐳 DevOps y entornos
