@@ -18,13 +18,14 @@ Apasionado por el desarrollo de software, la administración de servidores y la 
 - 🧩 **Docker** (contenedorización y despliegue)
 - 🌍 **Git** y **GitHub** (control de versiones y colaboración)
 - 🖥️ **Administración de servidores Linux**
+- 🇼 **WordPress** (Con DIVI)
 
 ---
 
 ## 💻 IDE que he utilizado
--  🟦 Visual Studio Code
--  🌘 Eclipse
--  🧠 IntelliJ IDEA Ultimate
+-  🟦 **Visual Studio Code**
+-  🌘 **Eclipse**
+-  🧠 **IntelliJ IDEA Ultimate**
 
 ---
 
