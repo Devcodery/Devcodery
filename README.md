@@ -26,7 +26,7 @@ Apasionado por el desarrollo de software, la administración de servidores y la 
 -  🟦 **Visual Studio Code**
 -  🌘 **Eclipse**
 -  🧠 **IntelliJ IDEA Ultimate**
--  - 🐍 **PyCharm**
+-  🐍 **PyCharm**
 
 ---
 
