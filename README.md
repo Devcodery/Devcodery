@@ -26,6 +26,7 @@ Apasionado por el desarrollo de software, la administración de servidores y la 
 -  🟦 **Visual Studio Code**
 -  🌘 **Eclipse**
 -  🧠 **IntelliJ IDEA Ultimate**
+-  - 🐍 **PyCharm**
 
 ---
 
@@ -49,6 +50,3 @@ Si quieres colaborar o charlar sobre tecnología:
 📧 **devcoderys@gmail.com**  
 🐙 [Mi perfil de GitHub](https://github.com/Devcodery)
 
----
-
-> *"La mejor forma de predecir el futuro es crearlo."* — Alan Kay
