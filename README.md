@@ -13,6 +13,7 @@ Apasionado por el desarrollo de software, la administración de servidores y la 
 - 🌐 **HTML**, **CSS**, **JavaScript**
 - ⚙️ **C** *(nivel intermedio - bajo)*
 - 🐘 **PostgreSQL**
+- 🐘 **PHP**
 
 ### 🐳 DevOps y entornos
 - 🧩 **Docker** (contenedorización y despliegue)
