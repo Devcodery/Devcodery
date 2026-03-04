@@ -14,12 +14,15 @@ Apasionado por el desarrollo de software, la administración de servidores y la 
 - ⚙️ **C** *(nivel intermedio - bajo)*
 - 🐘 **PostgreSQL**
 - 🐘 **PHP**
+- 🌳 **XML**
+- 💾 **PL/SQL**
 
 ### 🐳 DevOps y entornos
 - 🧩 **Docker** (contenedorización y despliegue)
 - 🌍 **Git** y **GitHub** (control de versiones y colaboración)
 - 🖥️ **Administración de servidores Linux**
 - 🇼 **WordPress** (Con DIVI)
+- ☁️ **AWS**
 
 ---
 
